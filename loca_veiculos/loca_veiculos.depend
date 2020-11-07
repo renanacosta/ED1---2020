@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1604547745 source:/home/renanacosta/Área de Trabalho/TADS - IFRS - APNP/Arquivos de ED-1 APNP/loca_veiculos/main.c
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-	<locale.h>
-
