@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604712350 source:/home/renanacosta/Área de Trabalho/TADS - IFRS - APNP/Arquivos de ED-1 APNP/lista/main.c
+	<stdio.h>
+	<stdlib.h>
+
