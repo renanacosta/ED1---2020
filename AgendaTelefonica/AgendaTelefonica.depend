@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1607805549 source:/home/renan/Documentos/programas codeblocks/AgendaTelefonica/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<malloc.h>
+	<stddef.h>
+	<string.h>
+	<time.h>
+
