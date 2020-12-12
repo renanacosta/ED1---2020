@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1607808589 source:/home/renan/Documentos/programas codeblocks/LDE/main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<string.h>
+	<time.h>
+
